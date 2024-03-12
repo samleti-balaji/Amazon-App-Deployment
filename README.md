@@ -1,11 +1,11 @@
 # Amazon-App-Deployment
 Amazon App Deployment: A DevSecOps Approach with Terraform and Jenkins CI/CD
 
+Output for Amazon Frontend Deployment
+
 
 [Screen Recording - Made with FlexClip (1)_compressed.webm](https://github.com/samleti-balaji/Amazon-App-Deployment/assets/117742347/5db95d93-46ea-4da5-b174-4d3f95b5d116)
 
-
-Output for Amazon Frontend Deployment
 
 
 ![Screenshot (12)](https://github.com/samleti-balaji/Amazon-App-Deployment/assets/117742347/1e7c303f-5c2a-4ca4-962b-1ad5e6d14e3d)
